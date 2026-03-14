@@ -1,5 +1,14 @@
-## Hi there 👋
+# MyCreditStart
 
+Helping beginners and immigrants in the United States build credit and understand the US credit system.
+
+Visit the website:
+https://mycreditstart.com
+
+Learn how to:
+• build credit from scratch
+• increase your credit score
+• choose the best beginner credit cards
 <!--
 **uslexarted-debug/uslexarted-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
